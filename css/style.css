@@ -5,6 +5,24 @@
 }
 html{
     box-sizing: border-box;
+    font-size: 16px;
+}
+
+:root{
+    --header-bg: #FF900E1A;
+    --title-color: #131313;
+    --nav-color: #424242;
+    --description-color: #727272;
+    --btn-bg: #FF900E;
+    --btn-color: #FFFFFF;
+    --shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+    --border-8: 8px;
+    --tittle-size-1: 3rem;
+    --tittle-size-2: 4rem;
+    --tittle-size-3: 1.3rem;
+    --font-weight-1: 300;
+    --font-weight-2: 500;
+    --font-weight-3: 600;
 }
 
 /*  */
